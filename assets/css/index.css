@@ -89,6 +89,7 @@ a {
     width: 66.67%; 
     height: 66%;
     margin: 0 auto;
+    overflow: auto;
     top: 8%;
     padding: 18px 28px 18px 28px;
     background: white;
