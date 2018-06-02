@@ -48,7 +48,7 @@ form  {
     float: left;
 }
 
-#textboxid {
+.textboxid {
     width: 600px;
 }
 
